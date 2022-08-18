@@ -1,6 +1,6 @@
 This repository will contain all the files regarding the Payment Application C Project for the ES Pro Nanodegree.
 
-The folloing link is a project report that conatins all the deliverables as mentioned in the RUBRIC !
+The following link is a project report that contains all the deliverables as mentioned in the RUBRIC!
 
 PAYMENT APPLICATION DELIVERABLES:
 
