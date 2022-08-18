@@ -1,0 +1,13 @@
+﻿  app.c
+C:\ES Pro Track\Payment Application\Payment Application\Application\app.c(23,3): warning C4098: 'main': 'void' function returning a value
+C:\ES Pro Track\Payment Application\Payment Application\Application\app.c(29,3): warning C4098: 'main': 'void' function returning a value
+C:\ES Pro Track\Payment Application\Payment Application\Application\app.c(35,3): warning C4098: 'main': 'void' function returning a value
+C:\ES Pro Track\Payment Application\Payment Application\Application\app.c(55,3): warning C4098: 'main': 'void' function returning a value
+C:\ES Pro Track\Payment Application\Payment Application\Application\app.c(61,3): warning C4098: 'main': 'void' function returning a value
+C:\ES Pro Track\Payment Application\Payment Application\Application\app.c(67,3): warning C4098: 'main': 'void' function returning a value
+C:\ES Pro Track\Payment Application\Payment Application\Application\app.c(73,3): warning C4098: 'main': 'void' function returning a value
+C:\ES Pro Track\Payment Application\Payment Application\Application\app.c(79,3): warning C4098: 'main': 'void' function returning a value
+C:\ES Pro Track\Payment Application\Payment Application\Application\app.c(85,3): warning C4098: 'main': 'void' function returning a value
+  server.c
+  Generating Code...
+  Payment Application.vcxproj -> C:\ES Pro Track\Payment Application\x64\Debug\Payment Application.exe
