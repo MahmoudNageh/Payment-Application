@@ -1,5 +1,6 @@
 import json
 import xml.etree.ElementTree as ET
+import uuid
 
 def json_to_arxml(json_data, arxml_filename):
     # Create the root element for the ARXML
@@ -11,7 +12,7 @@ def json_to_arxml(json_data, arxml_filename):
             if isinstance(value, dict):
                 # Create a new container for nested dictionaries
                 container = ET.SubElement(parent, 'ECUC-CONTAINER-VALUE')
-                container.set('UUID', '123')  # Example UUID, can be dynamically generated
+                container.set('UUID', str(uuid.uuid4()))  # Generate a unique UUID
                 short_name = ET.SubElement(container, 'SHORT-NAME')
                 short_name.text = key
                 definition_ref = ET.SubElement(container, 'DEFINITION-REF')
